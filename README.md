@@ -118,11 +118,11 @@ Hash-Chain Audit Logging<br>
 	<br>
 	<h2>🛠️ Installation & Setup</h2>
 	<h3>1️⃣ Clone Repository</h3>
-	'''bash
+	```bash
 	https://github.com/Tulasi9427/Adaptive-Hybrid-Learning-Framework-for-CyberThreat-Identify-and-Automated-Response-in-IIoT-Networks<br>
-	'''
+	```
 <h3>2️⃣ Install Dependencies</h3>
-pip install -r requirements.txt<br>
+```bash pip install -r requirements.txt<br> ```
 <br>
 <h4>Required packages:</h4>
 	•	torch<br>
@@ -137,17 +137,9 @@ pip install -r requirements.txt<br>
 	2.	Upload the notebook<br>
 	3.	Set Runtime → T4 GPU<br>
 	4.	Run cells sequentially<br>
-	## 🛠 Installation & Setup
+	
 
-### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/Tulasi9427/Adaptive-Hybrid-Learning-Framework-for-CyberThreat-Identify-and-Automated-Response-in-IIoT-Networks.git
 
-### 3️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
 
 	
