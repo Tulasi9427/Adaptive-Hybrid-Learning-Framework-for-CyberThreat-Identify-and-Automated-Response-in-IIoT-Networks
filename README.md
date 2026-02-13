@@ -15,17 +15,17 @@ The system not only detects cyber-attacks but also dynamically decides mitigatio
 
 🔎 Detection Module
 
-Input Data (41 Features)
-        ↓
-1D CNN Layers
-        ↓
-BiLSTM Layers
-        ↓
-Attention Mechanism
-        ↓
-Fully Connected Layers
-        ↓
-Attack Classification
+Input Data (41 Features)<br>
+        ↓<br>
+1D CNN Layers<br>
+        ↓<br>
+BiLSTM Layers<br>
+        ↓<br>
+Attention Mechanism<br>
+        ↓<br>
+Fully Connected Layers<br>
+        ↓<br>
+Attack Classification<br>
 
 🛡️ Prevention Module
 Predicted Attack + Confidence
@@ -42,55 +42,54 @@ Action Selection:
 Hash-Chain Audit Logging
 
 📊 Dataset
-	•	Dataset: NSL-KDD
+	•	Dataset: NSL-KDD<br>
 	•	Classes:
-	•	Normal
-	•	DoS
-	•	Probe
-	•	R2L
-	•	U2R
-	•	Features: 41 network traffic features
-	•	Split: 70% Train / 15% Validation / 15% Test
+	•	Normal<br>
+	•	DoS<br>
+	•	Probe<br>
+	•	R2L<br>
+	•	U2R<br>
+	•	Features: 41 network traffic features<br>
+	•	Split: 70% Train / 15% Validation / 15% TestV
 
   Dataset source:
 
   🚀 Key Features
 
 🔹 Deep Learning Detection
-	>>CNN for feature extraction
-	>>BiLSTM for sequential modeling
-	>>Attention layer for contextual weighting
-	>>Weighted Cross-Entropy for class imbalance
+	>>CNN for feature extraction<br>
+	>>BiLSTM for sequential modeling<br>
+	>>Attention layer for contextual weighting<br>
+	>>Weighted Cross-Entropy for class imbalance<br>
 	>>Early stopping & LR scheduling
 
 🔹 Reinforcement Learning Prevention
-	•	Q-learning with ε-greedy exploration
-	•	Confidence-gated decision making
-	•	Severity-aware blocking strategy
-	•	Adaptive learning for evolving threats
+	•	Q-learning with ε-greedy exploration<br>
+	•	Confidence-gated decision making<br>
+	•	Severity-aware blocking strategy<br>
+	•	Adaptive learning for evolving threats<br>
 
 🔹 Blockchain-style Audit Logging
-	•	SHA-256 hash chaining
-	•	Immutable decision tracking
-	•	Genesis block initialization
-	•	Tamper-resistant prevention log
+	•	SHA-256 hash chaining<br>
+	•	Immutable decision tracking<br>
+	•	Genesis block initialization<br>
+	•	Tamper-resistant prevention log<br>
 
 ⸻
 
 📈 Performance Metrics
 
 Detection Performance
-	•	Accuracy
-	•	Precision
-	•	Recall
-	•	F1-Score
-	•	Matthews Correlation Coefficient
-	•	Cohen’s Kappa
-	•	Per-class detection rate
+	•	Accuracy<br>
+	•	Precision<br>
+	•	Recall<br>
+	•	F1-Score<br>
+	•	Matthews Correlation Coefficient<br>
+	•	Per-class detection rate<br>
 
 Prevention Metrics
-	1.	Detection Accuracy
-	2.	Threat Mitigation Time
-	3.	Resource Efficiency
-	4.	Scalability
-	5.	Adaptability to New Threats
+	1.	Detection Accuracy<br>
+	2.	Threat Mitigation Time<br>
+	3.	Resource Efficiency<br>
+	4.	Scalability<br>
+	5.	Adaptability to New Threats<br>
