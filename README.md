@@ -131,9 +131,9 @@ pip install -r requirements.txt<br>
 	•	scikit-learn<br>
 
 <h3>3️⃣ Run in Google Colab (Recommended)</h3>
-	1.	Open Google Colab
-	2.	Upload the notebook
-	3.	Set Runtime → T4 GPU
-	4.	Run cells sequentially
+	1.	Open Google Colab<br>
+	2.	Upload the notebook<br>
+	3.	Set Runtime → T4 GPU<br>
+	4.	Run cells sequentially<br>
 
 	
