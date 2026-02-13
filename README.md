@@ -14,18 +14,19 @@ The system not only detects cyber-attacks but also dynamically decides mitigatio
 🏗️ System Architecture
 
 🔎 Detection Module
-
+<div align="center">
 Input Data (41 Features)<br>
-         <br> ↓<br>
+          ↓<br>
 1D CNN Layers<br>
-         <br> ↓<br>
+         ↓<br>
 BiLSTM Layers<br>
-         <br> ↓<br>
+          ↓<br>
 Attention Mechanism<br>
-         <br> ↓<br>
+         ↓<br>
 Fully Connected Layers<br>
-         <br> ↓<br>
+          ↓<br>
 Attack Classification<br>
+</div>
 
 🛡️ Prevention Module
 
