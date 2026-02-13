@@ -2,12 +2,12 @@
 
 This project implements a hybrid deep learning intrusion detection and prevention system for Industrial Internet of Things (IIoT) environments using the NSL-KDD dataset.
 
-The framework integrates:/n
-	•	✅ CNN for spatial feature extraction
-	•	✅ BiLSTM for temporal dependency learning
-	•	✅ Attention Mechanism for feature importance weighting
-	•	✅ Reinforcement Learning (Q-Learning) for adaptive intrusion prevention
-	•	✅ Hash-Chain Audit Logging for tamper-proof security auditing
+The framework integrates:<br>
+	-	✅ CNN for spatial feature extraction
+	-	✅ BiLSTM for temporal dependency learning
+	-	✅ Attention Mechanism for feature importance weighting
+	-	✅ Reinforcement Learning (Q-Learning) for adaptive intrusion prevention
+	-	✅ Hash-Chain Audit Logging for tamper-proof security auditing
 
 The system not only detects cyber-attacks but also dynamically decides mitigation actions such as blocking or isolating malicious sources.
 
