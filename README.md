@@ -13,7 +13,8 @@ The system not only detects cyber-attacks but also dynamically decides mitigatio
 
 #🏗️ System Architecture
 
-##🔎 Detection Module
+<h1>🔎 Detection Module</h1>
+
 <br>
 
 <div align="center">
