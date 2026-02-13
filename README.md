@@ -137,5 +137,17 @@ pip install -r requirements.txt<br>
 	2.	Upload the notebook<br>
 	3.	Set Runtime → T4 GPU<br>
 	4.	Run cells sequentially<br>
+	## 🛠 Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Tulasi9427/Adaptive-Hybrid-Learning-Framework-for-CyberThreat-Identify-and-Automated-Response-in-IIoT-Networks.git
+
+### 3️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
 
 	
