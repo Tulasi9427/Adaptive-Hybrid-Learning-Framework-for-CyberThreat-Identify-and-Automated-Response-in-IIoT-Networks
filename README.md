@@ -14,6 +14,7 @@ The system not only detects cyber-attacks but also dynamically decides mitigatio
 🏗️ System Architecture
 
 🔎 Detection Module
+
 Input Data (41 Features)
         ↓
 1D CNN Layers
@@ -56,11 +57,11 @@ Hash-Chain Audit Logging
   🚀 Key Features
 
 🔹 Deep Learning Detection
-	•	CNN for feature extraction
-	•	BiLSTM for sequential modeling
-	•	Attention layer for contextual weighting
-	•	Weighted Cross-Entropy for class imbalance
-	•	Early stopping & LR scheduling
+	>>CNN for feature extraction
+	>>BiLSTM for sequential modeling
+	>>Attention layer for contextual weighting
+	>>Weighted Cross-Entropy for class imbalance
+	>>Early stopping & LR scheduling
 
 🔹 Reinforcement Learning Prevention
 	•	Q-learning with ε-greedy exploration
