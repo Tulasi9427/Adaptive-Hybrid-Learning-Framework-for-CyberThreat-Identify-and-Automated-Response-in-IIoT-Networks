@@ -16,32 +16,34 @@ The system not only detects cyber-attacks but also dynamically decides mitigatio
 🔎 Detection Module
 
 Input Data (41 Features)<br>
-        ↓<br>
+          ↓<br>
 1D CNN Layers<br>
-        ↓<br>
+          ↓<br>
 BiLSTM Layers<br>
-        ↓<br>
+          ↓<br>
 Attention Mechanism<br>
-        ↓<br>
+          ↓<br>
 Fully Connected Layers<br>
-        ↓<br>
+          ↓<br>
 Attack Classification<br>
 
 🛡️ Prevention Module
-Predicted Attack + Confidence
-        ↓
-RL-based Q-Learning Policy
-        ↓
-Action Selection:
-  • ALLOW
-  • MONITOR
-  • RATE_LIMIT
-  • BLOCK_IP
-  • ISOLATE_DEVICE
-        ↓
-Hash-Chain Audit Logging
 
-📊 Dataset
+Predicted Attack + Confidence<br>
+          ↓<br>
+RL-based Q-Learning Policy<br>
+          ↓<br>
+Action Selection:<br>
+  • ALLOW<br>
+  • MONITOR<br>
+  • RATE_LIMIT<br>
+  • BLOCK_IP<br>
+  • ISOLATE_DEVICE<br>
+          ↓<br>
+Hash-Chain Audit Logging<br>
+
+📊 Dataset 
+<br>
 	•	Dataset: NSL-KDD<br>
 	•	Classes:
 	•	Normal<br>
@@ -57,6 +59,7 @@ Hash-Chain Audit Logging
   🚀 Key Features
 
 🔹 Deep Learning Detection
+<br>
 	>>CNN for feature extraction<br>
 	>>BiLSTM for sequential modeling<br>
 	>>Attention layer for contextual weighting<br>
@@ -64,12 +67,14 @@ Hash-Chain Audit Logging
 	>>Early stopping & LR scheduling
 
 🔹 Reinforcement Learning Prevention
+  <br>
 	•	Q-learning with ε-greedy exploration<br>
 	•	Confidence-gated decision making<br>
 	•	Severity-aware blocking strategy<br>
 	•	Adaptive learning for evolving threats<br>
 
 🔹 Blockchain-style Audit Logging
+<br>
 	•	SHA-256 hash chaining<br>
 	•	Immutable decision tracking<br>
 	•	Genesis block initialization<br>
@@ -80,6 +85,7 @@ Hash-Chain Audit Logging
 📈 Performance Metrics
 
 Detection Performance
+<br>
 	•	Accuracy<br>
 	•	Precision<br>
 	•	Recall<br>
@@ -88,6 +94,7 @@ Detection Performance
 	•	Per-class detection rate<br>
 
 Prevention Metrics
+<br>
 	1.	Detection Accuracy<br>
 	2.	Threat Mitigation Time<br>
 	3.	Resource Efficiency<br>
