@@ -11,7 +11,7 @@ The framework integrates:<br>
 
 The system not only detects cyber-attacks but also dynamically decides mitigation actions such as blocking or isolating malicious sources.
 
-🏗️ System Architecture
+#🏗️ System Architecture
 
 ##🔎 Detection Module
 <br>
@@ -60,6 +60,7 @@ Hash-Chain Audit Logging<br>
 	•	Split: 70% Train / 15% Validation / 15% TestV
 
   Dataset source:
+  https://www.unb.ca/cic/datasets/nsl.html
 
   🚀 Key Features
 
