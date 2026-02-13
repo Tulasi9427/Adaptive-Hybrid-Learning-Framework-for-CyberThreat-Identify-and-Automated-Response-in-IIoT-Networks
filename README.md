@@ -14,6 +14,8 @@ The system not only detects cyber-attacks but also dynamically decides mitigatio
 🏗️ System Architecture
 
 🔎 Detection Module
+<br>
+
 <div align="center">
 Input Data (41 Features)<br>
           ↓<br>
@@ -29,7 +31,8 @@ Attack Classification<br>
 </div>
 
 🛡️ Prevention Module
-
+<br>
+<div align="center">
 Predicted Attack + Confidence<br>
           ↓<br>
 RL-based Q-Learning Policy<br>
@@ -42,6 +45,7 @@ Action Selection:<br>
   • ISOLATE_DEVICE<br>
           ↓<br>
 Hash-Chain Audit Logging<br>
+</div>
 
 📊 Dataset 
 <br>
