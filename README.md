@@ -118,7 +118,9 @@ Hash-Chain Audit Logging<br>
 	<br>
 	<h2>🛠️ Installation & Setup</h2>
 	<h3>1️⃣ Clone Repository</h3>
+	'''bash
 	https://github.com/Tulasi9427/Adaptive-Hybrid-Learning-Framework-for-CyberThreat-Identify-and-Automated-Response-in-IIoT-Networks<br>
+	'''
 <h3>2️⃣ Install Dependencies</h3>
 pip install -r requirements.txt<br>
 <br>
