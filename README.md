@@ -2,7 +2,7 @@
 
 This project implements a hybrid deep learning intrusion detection and prevention system for Industrial Internet of Things (IIoT) environments using the NSL-KDD dataset.
 
-The framework integrates:
+The framework integrates:/n
 	•	✅ CNN for spatial feature extraction
 	•	✅ BiLSTM for temporal dependency learning
 	•	✅ Attention Mechanism for feature importance weighting
