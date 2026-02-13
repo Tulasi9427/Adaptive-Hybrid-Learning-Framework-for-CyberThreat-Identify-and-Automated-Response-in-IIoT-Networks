@@ -3,15 +3,15 @@
 This project implements a hybrid deep learning intrusion detection and prevention system for Industrial Internet of Things (IIoT) environments using the NSL-KDD dataset.
 
 The framework integrates:<br>
-	-	✅ CNN for spatial feature extraction<br>
-	-	✅ BiLSTM for temporal dependency learning<br>
-	-	✅ Attention Mechanism for feature importance weighting<br>
-	-	✅ Reinforcement Learning (Q-Learning) for adaptive intrusion prevention<br>
-	-	✅ Hash-Chain Audit Logging for tamper-proof security auditing<br>
+	•	✅ CNN for spatial feature extraction<br>
+	•	✅ BiLSTM for temporal dependency learning<br>
+	•	✅ Attention Mechanism for feature importance weighting<br>
+	•	✅ Reinforcement Learning (Q-Learning) for adaptive intrusion prevention<br>
+	•	✅ Hash-Chain Audit Logging for tamper-proof security auditing<br>
 
 The system not only detects cyber-attacks but also dynamically decides mitigation actions such as blocking or isolating malicious sources.
 
-🏗️ System Architecture
+<h2>🏗️ System Architecture</h2>
 
 <h2>🔎 Detection Module</h2>
 
@@ -48,7 +48,7 @@ Action Selection:<br>
 Hash-Chain Audit Logging<br>
 </div>
 
-📊 Dataset 
+<h2>📊 Dataset & its Features</h2>
 <br>
 	•	Dataset: NSL-KDD<br>
 	•	Classes:
@@ -63,24 +63,24 @@ Hash-Chain Audit Logging<br>
   Dataset source:
   https://www.unb.ca/cic/datasets/nsl.html
 
-  🚀 Key Features
+ <h2> 🚀 Key Features</h2>
 
-🔹 Deep Learning Detection
+<h3>🔹 Deep Learning Detection</h3>
 <br>
-	>>CNN for feature extraction<br>
-	>>BiLSTM for sequential modeling<br>
-	>>Attention layer for contextual weighting<br>
-	>>Weighted Cross-Entropy for class imbalance<br>
-	>>Early stopping & LR scheduling
+	•	CNN for feature extraction<br>
+	•	BiLSTM for sequential modeling<br>
+	•	Attention layer for contextual weighting<br>
+	•	Weighted Cross-Entropy for class imbalance<br>
+	•	Early stopping & LR scheduling
 
-🔹 Reinforcement Learning Prevention
+<h3>🔹 Reinforcement Learning Prevention</h3>
   <br>
 	•	Q-learning with ε-greedy exploration<br>
 	•	Confidence-gated decision making<br>
 	•	Severity-aware blocking strategy<br>
 	•	Adaptive learning for evolving threats<br>
 
-🔹 Blockchain-style Audit Logging
+<h3>🔹 Blockchain-style Audit Logging</h3>
 <br>
 	•	SHA-256 hash chaining<br>
 	•	Immutable decision tracking<br>
@@ -89,9 +89,9 @@ Hash-Chain Audit Logging<br>
 
 ⸻
 
-📈 Performance Metrics
+<h2>📈 Performance Metrics</h2>
 
-Detection Performance
+<h3>Detection Performance</h3>
 <br>
 	•	Accuracy<br>
 	•	Precision<br>
@@ -100,7 +100,7 @@ Detection Performance
 	•	Matthews Correlation Coefficient<br>
 	•	Per-class detection rate<br>
 
-Prevention Metrics
+<h3>Prevention Metrics</h3>
 <br>
 	1.	Detection Accuracy<br>
 	2.	Threat Mitigation Time<br>
