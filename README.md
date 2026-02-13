@@ -116,7 +116,7 @@ Hash-Chain Audit Logging<br>
 	•	Real-time threat mitigation research<br>
 	•	Academic research and benchmarking<br>
 	<br>
-	## 🛠 Installation & Setup
+	<h2>🛠 Installation & Setup</h2>
 
 ### 1️⃣ Clone the Repository
 
