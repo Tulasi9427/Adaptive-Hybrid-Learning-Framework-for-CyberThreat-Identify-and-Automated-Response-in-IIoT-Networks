@@ -1,4 +1,4 @@
-📌 Project Overview
+<h2>📌 Project Overview</h2>
 
 This project implements a hybrid deep learning intrusion detection and prevention system for Industrial Internet of Things (IIoT) environments using the NSL-KDD dataset.
 
@@ -11,9 +11,9 @@ The framework integrates:<br>
 
 The system not only detects cyber-attacks but also dynamically decides mitigation actions such as blocking or isolating malicious sources.
 
-#🏗️ System Architecture
+🏗️ System Architecture
 
-<h1>🔎 Detection Module</h1>
+<h2>🔎 Detection Module</h2>
 
 <br>
 
@@ -31,7 +31,7 @@ Fully Connected Layers<br>
 Attack Classification<br>
 </div>
 
-🛡️ Prevention Module
+<h2>🛡️ Prevention Module</h2>
 <br>
 <div align="center">
 Predicted Attack + Confidence<br>
