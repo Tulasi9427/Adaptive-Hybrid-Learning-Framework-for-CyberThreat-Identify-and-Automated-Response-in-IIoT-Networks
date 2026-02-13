@@ -107,3 +107,33 @@ Hash-Chain Audit Logging<br>
 	3.	Resource Efficiency<br>
 	4.	Scalability<br>
 	5.	Adaptability to New Threats<br>
+
+<h2>🎯 Use Cases</h2>
+<br>
+	•	Industrial IoT security monitoring<br>
+	•	Smart factory intrusion detection<br>
+	•	Cyber-physical system protection<br>
+	•	Real-time threat mitigation research<br>
+	•	Academic research and benchmarking<br>
+	<br>
+	<h2>🛠️ Installation & Setup</h2>
+	<h3>1️⃣ Clone Repository</h3>
+	https://github.com/Tulasi9427/Adaptive-Hybrid-Learning-Framework-for-CyberThreat-Identify-and-Automated-Response-in-IIoT-Networks<br>
+<h3>2️⃣ Install Dependencies</h3>
+pip install -r requirements.txt<br>
+<br>
+<h4>Required packages:</h4>
+	•	torch<br>
+	•	numpy<br>
+	•	pandas<br>
+	•	matplotlib<br>
+	•	seaborn<br>
+	•	scikit-learn<br>
+
+<h3>3️⃣ Run in Google Colab (Recommended)</h3>
+	1.	Open Google Colab
+	2.	Upload the notebook
+	3.	Set Runtime → T4 GPU
+	4.	Run cells sequentially
+
+	
